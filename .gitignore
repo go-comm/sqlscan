@@ -1,0 +1,6 @@
+.DS_Store
+scaneo
+scans.go
+*.swp
+do.sh
+ast.log
